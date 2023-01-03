@@ -21,10 +21,10 @@ This project is about creating a website for the mighty Pong contest!
 - Each user have a Match History including 1v1 games, ladder, and anything else useful. Anyone who is logged in can to consult it.
 
 ### [Demo] Authentication using 42Intranet / 2FA:
-![auth GIF](https://github.com/spydersy/OnePong/blob/master/gif/auth_2fa.gif)
+![auth GIF](https://github.com/spydersy/OnePong/blob/main/gif/auth_2fa.gif)
 
 ### [Demo] Real-Time Status(online/offline/in game):
-![auth GIF](https://github.com/spydersy/OnePong/blob/master/gif/realtime_status.gif)
+![auth GIF](https://github.com/spydersy/OnePong/blob/main/gif/realtime_status.gif)
 
 ## Chat
 - The user can create channels (chat rooms) that can be either public, or private, or protected by a password.
@@ -38,9 +38,9 @@ This project is about creating a website for the mighty Pong contest!
 - The user should be able to access other players profiles through the chat interface.
 
 ### [Demo] Chat:
-![chat GIF](https://github.com/spydersy/OnePong/blob/master/gif/chat.gif)
+![chat GIF](https://github.com/spydersy/OnePong/blob/main/gif/chat.gif)
 
-![group chat GIF](https://github.com/spydersy/OnePong/blob/master/gif/group.gif)
+![group chat GIF](https://github.com/spydersy/OnePong/blob/main/gif/group.gif)
 
 ## Pong Game
 - Users should be able to play a live Pong game versus another player directly on the website.
@@ -49,7 +49,7 @@ This project is about creating a website for the mighty Pong contest!
 - The user can watch a live play between other users without interfering with it.
 
 ### [Demo] Game / Matchmaking system:
-![chat GIF](https://github.com/spydersy/OnePong/blob/master/gif/game.gif)
+![chat GIF](https://github.com/spydersy/OnePong/blob/main/gif/game.gif)
 
 ### [Demo] AI mode / Spectating mode:
-![group chat GIF](https://github.com/spydersy/OnePong/blob/master/gif/ai_mode_stream.gif)
+![group chat GIF](https://github.com/spydersy/OnePong/blob/main/gif/ai_mode_stream.gif)
